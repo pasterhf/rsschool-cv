@@ -3,7 +3,6 @@
 ---
 ### Personal information
 *****
----
 * **Date of birth:**
 *****
 +28.05.2001
