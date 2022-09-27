@@ -9,11 +9,11 @@
 * **Phone:** +48-730-972-378
 
 #### Languages:
-  Russian - C2
-  Belarusian - native
-  Polish - B1
-  English - A2
-  
+Russian - C2
+Belarusian - native
+Polish - B1
+English - A2
+ 
 #### About me: 
 I communicate well in different teams, and I always like to do my job in the best possible way. I love a creative approach with the best solution to the project.
 
