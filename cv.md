@@ -7,10 +7,11 @@
 * **E-mail:** pasterhf@gmail.com
 * **Git-hub:** [pasterhf](https://github.com/pasterhf)
 * **Phone:** +48-730-972-378
-* 
-* #### Languages:
-  Russian - C2
-  Belarusian - native
-  Polish - B1
-  English - A2
+
+#### Languages:
+
+Russian - C2
+Belarusian - native
+Polish - B1
+English - A2
 
